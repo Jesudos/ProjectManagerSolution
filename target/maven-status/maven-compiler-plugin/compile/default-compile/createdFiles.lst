@@ -1,0 +1,9 @@
+com\cts\io\ProjectManager\project\Project.class
+com\cts\io\ProjectManager\user\User.class
+com\cts\io\ProjectManager\project\Project$Table.class
+com\cts\io\ProjectManager\user\User$Table.class
+com\cts\io\ProjectManager\parenttask\ParentTask$Table.class
+com\cts\io\ProjectManager\parenttask\ParentTask.class
+com\cts\io\ProjectManager\task\Task.class
+com\cts\io\ProjectManager\ProjectManagerSolution.class
+com\cts\io\ProjectManager\task\Task$Table.class
